@@ -42,3 +42,21 @@ h1{
   font-size: 72px;
   color: #0ccac4;
 }
+
+select{
+  /* width: 60px; */
+  /* height: 400px; */
+  outline: none;
+ 
+}
+
+
+select option{
+  width: 100%;
+  
+  height: 100%;
+  padding: 10px 20px;
+  display: block;
+  outline: none;
+
+}
